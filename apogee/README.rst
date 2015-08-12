@@ -17,3 +17,4 @@ LINKS
 - `A closer look at the ASPCAP analysis of simulated MOOG spectra with just [O/H] variations <http://nbviewer.ipython.org/github/jobovy/misc-notebooks/blob/master/apogee/apogee-aspcap-indivOvar.ipynb?flush_cache=true>`__
 - `Example of penalized deconvolution technique <http://nbviewer.ipython.org/github/jobovy/misc-notebooks/blob/master/apogee/lsf-deconvolution-example.ipynb?flush_cache=true>`__
 - `The effect of varying [O/H] separately in the H band <http://nbviewer.ipython.org/github/jobovy/misc-notebooks/blob/master/apogee/apogee-aspcap-indivOvar.ipynb?flush_cache=true>`__
+- `comparison between Kurucz/Turbospectrum, Kurucz/MOOG, and Kurucz/ASSeT <http://nbviewer.ipython.org/github/jobovy/misc-notebooks/blob/master/apogee/apogee-aspcap-turboMoogAssetComparison.ipynb?flush_cache=true>`__
