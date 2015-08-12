@@ -18,3 +18,4 @@ LINKS
 - `Example of penalized deconvolution technique <http://nbviewer.ipython.org/github/jobovy/misc-notebooks/blob/master/apogee/lsf-deconvolution-example.ipynb?flush_cache=true>`__
 - `The effect of varying [O/H] separately in the H band <http://nbviewer.ipython.org/github/jobovy/misc-notebooks/blob/master/apogee/apogee-aspcap-indivOvar.ipynb?flush_cache=true>`__
 - `Comparison between Kurucz/Turbospectrum, Kurucz/MOOG, and Kurucz/ASSeT <http://nbviewer.ipython.org/github/jobovy/misc-notebooks/blob/master/apogee/apogee-aspcap-turboMoogAssetComparison.ipynb?flush_cache=true>`__
+- `Chi2 plots of low-[O/Fe] stars found in the bulge <http://nbviewer.ipython.org/github/jobovy/misc-notebooks/blob/master/apogee/BulgeASPCAPCheck.ipynb?flush_cache=true>`__
