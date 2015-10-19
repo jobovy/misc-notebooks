@@ -21,4 +21,5 @@ LINKS
 - `Chi2 plots of low-[O/Fe] stars found in the bulge <http://nbviewer.ipython.org/github/jobovy/misc-notebooks/blob/master/apogee/BulgeASPCAPCheck.ipynb?flush_cache=true>`__
 - `Small differences between Turbospectrum and MOOG when varying Al and Mg <http://nbviewer.ipython.org/github/jobovy/misc-notebooks/blob/master/apogee/SmallTurbospecMOOGDifferencesMgAl.ipynb?flush_cache=true>`__
 - `A quick check of the effect of inconsistencies between a model atmosphere and the abundances used in the synthesis <http://nbviewer.ipython.org/github/jobovy/misc-notebooks/blob/master/apogee/AtmosphereSynthesisInconsistency.ipynb?flush_cache=true>`__
-- `A detailed investigation of how many different LSF libraries we should use <http://nbviewer.ipython.org/github/jobovy/misc-notebooks/blob/master/apogee/apogee-lsf-groupings.ipynb?flush_cache=true>`__
+- `A detailed investigation of how many different LSF libraries we should use for the DR12 LSFs <http://nbviewer.ipython.org/github/jobovy/misc-notebooks/blob/6a15d8b6fb656fe81fb496f31ad41e2c91299db4/apogee/apogee-lsf-groupings.ipynb?flush_cache=true>`__
+- `A detailed investigation of how many different LSF libraries we should use for the DR13 LSFs <http://nbviewer.ipython.org/github/jobovy/misc-notebooks/blob/master/apogee/apogee-lsf-groupings.ipynb?flush_cache=true>`__
