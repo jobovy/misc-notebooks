@@ -16,3 +16,4 @@ LINKS
 - `Inference of the dispersion of a Gaussian with Gaussian data errors <http://nbviewer.ipython.org/github/jobovy/misc-notebooks/blob/master/inference/Gaussian-Dispersion-Inference-Errors.ipynb?flush_cache=true>`__
 - `ABC inference of upper limit on star-formation timescale from lack of CCSN <http://nbviewer.ipython.org/github/jobovy/misc-notebooks/blob/master/inference/open-cluster-ABC-w-lack-of-CCSNe.ipynb?flush_cache=true>`__
 - `Sampling from the uncertainty distribution of the parameters of a linear model by re-sampling the data <http://nbviewer.ipython.org/github/jobovy/misc-notebooks/blob/master/inference/LinearUncertaintiesFromDataSampling.ipynb?flush_cache=true>`__
+- `Linear-regression with a Gaussian outlier model implemented with a variety of inference tools <http://nbviewer.ipython.org/github/jobovy/misc-notebooks/blob/master/inference/LinearRegressionwOutlierswVariousTools.ipynb?flush_cache=true>`__
